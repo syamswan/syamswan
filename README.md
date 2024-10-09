@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syam Sundar S</h1>
-<h3 align="center">I am a skilled web developer with over three years of experience specializing in front-end development. My expertise lies in building websites from the ground up, integrating REST APIs, and designing and implementing intuitive UX wireframes. I ensure that the websites I develop are optimized for seamless functionality, user experience, and responsiveness. I have a strong command of modern web development frameworks and libraries, including JavaScript, jQuery, Angular, and React.js.My comprehensive background enables me to stay ahead of industry trends and deliver high-quality, user-focused web solutions.</h3>
+<h1 align="left">Hi 👋, I'm Syam Sundar S</h1>
+<h3 align="left">I am a skilled web developer with over three years of experience specializing in front-end development. My expertise lies in building websites from the ground up, integrating REST APIs, and designing and implementing intuitive UX wireframes. I ensure that the websites I develop are optimized for seamless functionality, user experience, and responsiveness. I have a strong command of modern web development frameworks and libraries, including JavaScript, jQuery, Angular, and React.js.My comprehensive background enables me to stay ahead of industry trends and deliver high-quality, user-focused web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syamswan&label=Profile%20views&color=0e75b6&style=flat" alt="syamswan" /> </p>
 
@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syamswan&show_icons=true&locale=en&layout=compact" alt="syamswan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syamswan&show_icons=true&locale=en" alt="syamswan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=syamswan&show_icons=true&locale=en" alt="syamswan" /></p>
