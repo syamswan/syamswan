@@ -5,9 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syamswan" alt="syamswan" /></a> </p>
 
+- 🔭 I’m currently working on [User management](https://github.com/syamswan/User-Management)
+
 - 🌱 I’m currently learning **Node.js**
 
+- 👨‍💻 All of my projects are available at [https://syamswan.github.io/](https://syamswan.github.io/)
+
+- 💬 Ask me about **front-end development best practices, API integrations, responsive web design, UX/UI design principles, or JavaScript frameworks like React and Angular. I'm also happy to discuss Node.js and my experience with building full-stack applications**
+
 - 📫 How to reach me **syamsundardeveloper98@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf](https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf)
+
+- ⚡ Fun fact **I'm often find me playing sports or working on staying fit. Whether it's hitting the gym, going for a run, or playing a game of basketball, I believe keeping active helps me stay focused and creative in my work and also I love exploring new tech gadgets.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
