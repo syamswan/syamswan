@@ -37,12 +37,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/syamswan/count.svg?"  />
-</div>
-
-###
-
 <p align="left">⚡ Fun fact I'm often find me playing sports or working on staying fit. Whether it's hitting the gym, going for a run, or playing a game of cricket and basketball, I believe keeping active helps me stay focused and creative in my work and also I love exploring new tech gadgets.</p>
 
 ###
@@ -55,5 +49,9 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=syamswan.syamswan&"  />
 
 ###
