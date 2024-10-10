@@ -17,7 +17,7 @@
 
 </div>
 
-<div style="padding: 20px;">
+<div>
 
   <p align="left">I am a skilled web developer with over three years of experience specializing in front-end
     development. My expertise lies in building websites from the ground up, integrating REST APIs, and designing and
@@ -31,13 +31,13 @@
   <br>
 
   <p align="left">
-    <b> Know about my </b> <br>
-    experiences https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf
+    <b> Know about my experiences</b> <br>
+    https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf
   </p>
 
 </div>
 
-<div align="left" style="padding: 0px 0px 0px 20px;">
+<div align="left">
 
   <h3> Frontend </h3>
 
@@ -69,11 +69,9 @@
 
 </div>
 
-<div style="padding: 0px 0px 0px 20px;">
-  <p><b> ⚡ Fun fact :</b> I'm often find me playing sports or working on staying fit. Whether it's hitting the gym,
-    going for a run, or playing a game of cricket and basketball, I believe keeping active helps me stay focused and
-    creative in my work and also I love exploring new tech gadgets.</p>
-</div>
+<p><b> ⚡ Fun fact :</b> I prioritize staying active through sports like cricket, basketball, running, and regular gym
+  workouts. Staying fit enhances my focus, creativity, and overall productivity. I also have a keen interest in
+  exploring new tech gadgets.</p>
 
 <!-- <img align="left"
   src="https://github-readme-stats.vercel.app/api?username=syamswan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
