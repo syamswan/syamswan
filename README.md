@@ -35,8 +35,6 @@
     experiences https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf
   </p>
 
-  <img align="right" style="height: 20px; width: auto;" src="https://visitor-badge.laobi.icu/badge?page_id=syamswan.syamswan&" />
-
 </div>
 
 <div align="left" style="padding: 0px 0px 0px 20px;">
@@ -83,3 +81,6 @@
 <img align="left"
   src="https://github-readme-stats.vercel.app/api/top-langs?username=syamswan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
   height="150" alt="languages graph" />
+
+<!-- <img align="right" style="height: 20px; width: auto;"
+  src="https://visitor-badge.laobi.icu/badge?page_id=syamswan.syamswan&" /> -->
