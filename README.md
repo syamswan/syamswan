@@ -32,7 +32,7 @@
 
   <p align="left">
     <b> Know about my experiences</b> <br>
-    <a href="https://github.com/syamswan/portfolio/blob/master/docs/resume.pdf"> Resume </a> 
+    <a href="https://github.com/syamswan/portfolio/raw/refs/heads/master/docs/resume.pdf"> Resume </a>
   </p>
 
 </div>
