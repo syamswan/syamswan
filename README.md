@@ -60,10 +60,9 @@
   <img title="D3js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" width="40"
     alt="d3js logo" />
 
-
   <h3> Backend </h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"
+  <img title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"
     alt="nodejs logo" />
   </p>
 
