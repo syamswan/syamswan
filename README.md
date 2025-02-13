@@ -19,14 +19,8 @@
 
 <div>
 
-  <p align="left">I am a skilled web developer with over three years of experience specializing in front-end
-    development. My expertise lies in building websites from the ground up, integrating REST APIs, and designing and
-    implementing intuitive UX wireframes. I ensure that the websites I develop are optimized for seamless
-    functionality,
-    user experience, and responsiveness. I have a strong command of modern web development frameworks and libraries,
-    including JavaScript, jQuery, Angular, and React.js.My comprehensive background enables me to stay ahead of
-    industry
-    trends and deliver high-quality, user-focused web solutions.</p>
+  <p align="left"> I am a Front-End Developer with over four years of experience in building and delivering high-quality web applications. My expertise lies in integrating REST APIs and collaborating closely with UX designers and backend developers to create seamless and user-focused products. I have in-depth knowledge of JavaScript (Plain JS), Angular, and React.js, along with a foundational understanding of Node.js for creating REST APIs. I have developed a user management system as a sample project using Node.js. Staying up to date with the latest front-end technologies and industry trends is a key priority for me. Throughout my career, I have successfully handled and completed multiple projects independently, demonstrating proficiency in React, Angular, and JavaScript. Additionally, I have experience in designing wireframes using Canva and have created numerous UI/UX mockups. My primary focus is on delivering responsive, user-centric, and high-performance websites while ensuring timely project completion.
+</p>
 
   <br>
 
